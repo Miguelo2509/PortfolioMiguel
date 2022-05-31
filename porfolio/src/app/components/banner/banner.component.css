@@ -2,3 +2,16 @@ img{
     width : 100%;
     height: 500px;
 }
+
+#myVideo {
+    bottom: 0;
+  }
+
+h1{
+    font-size: 70px;    
+    position: absolute;
+    top: 400px;
+    right: 20%;
+    color: aliceblue;
+    bottom: 1;
+}  
