@@ -7,7 +7,6 @@ div{
     text-align: center;
 }
 
-<<<<<<< HEAD
 @media (max-width: 575px){
     #foto{
         position: absolute;
@@ -19,31 +18,21 @@ div{
     }
 }
 
-=======
->>>>>>> e93338504d0accf676a896bb5326b04305ce1e79
 @media (min-width: 576px){
     #foto{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-<<<<<<< HEAD
+
         box-shadow: 3px 3px 3px darkgrey;
         left: 2%;
         top: 550px;
-=======
         box-shadow: 2px 2px 2px blue;
->>>>>>> e93338504d0accf676a896bb5326b04305ce1e79
     }
 }
 
 
 #nombre{
     font-weight: bold;
-<<<<<<< HEAD
-    margin-top: 30%;
-}
-=======
     margin-top: 15%;
 }
-
->>>>>>> e93338504d0accf676a896bb5326b04305ce1e79
