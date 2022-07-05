@@ -1,10 +1,5 @@
-div{
+.row{
     background-color:#9dd1e4;
     padding: 20px;
-}
-
-.container{
-    display: contents;
-    justify-content: center;
 }
 
