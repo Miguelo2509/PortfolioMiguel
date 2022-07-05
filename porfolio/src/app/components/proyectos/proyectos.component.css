@@ -18,3 +18,7 @@ h1,h3{
 img{
     width: 100%;
 }
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: darkslateblue;
+}
